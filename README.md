@@ -1,1 +1,1 @@
- Create to-do list using file handling,List and string Manipulation.Implenment add/remove/view function.
+ Create WebScraper for NewsHeadlines using HTTP request,Webscraping,HTML parsing.Using tools Pythoon,requests,BeautifulSoup.
